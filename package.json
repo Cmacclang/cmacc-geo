@@ -5,5 +5,6 @@
   "main": "index.js",
   "repository": "https://github.com/Cmacclang/cmacc-lib-geo.git",
   "author": "Marc Dangeard <marc@dangeard.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "flat": true
 }
