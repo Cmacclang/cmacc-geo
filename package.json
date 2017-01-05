@@ -1,6 +1,6 @@
 {
   "name": "cmacc-lib-geo",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Package for managing addresses in Cmacc",
   "main": "index.js",
   "repository": "https://github.com/cmacclang/cmacc-lib-geo.git",
