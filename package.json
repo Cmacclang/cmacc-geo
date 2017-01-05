@@ -1,9 +1,9 @@
 {
   "name": "cmacc-lib-geo",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Package for managing addresses in Cmacc",
   "main": "index.js",
-  "repository": "https://github.com/Cmacclang/cmacc-lib-geo.git",
+  "repository": "https://github.com/cmacclang/cmacc-lib-geo.git",
   "author": "Marc Dangeard <marc@dangeard.com>",
   "license": "MIT",
   "flat": true
