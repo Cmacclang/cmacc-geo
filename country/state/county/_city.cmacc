@@ -1,4 +1,4 @@
-$ name = "city";
+$ name = "city"
 
-$ county = [../_county.cmacc];
+$ county = [../_county.cmacc]
 

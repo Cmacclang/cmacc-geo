@@ -1,8 +1,8 @@
-$ name = "streetname";
+$ name = "streetname"
 
-$ streetnum = "streetnum";
+$ streetnum = "streetnum"
 
-$ zip = "zip";
+$ zip = "zip"
 
-$ street = [../../_street.cmacc];
+$ street = [../../_street.cmacc]
 
