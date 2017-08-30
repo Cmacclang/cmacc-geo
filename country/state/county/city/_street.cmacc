@@ -1,4 +1,4 @@
-$ name = "street";
+$ name = "street"
 
-$ city = [../_city.cmacc];
+$ city = [../_city.cmacc]
 
