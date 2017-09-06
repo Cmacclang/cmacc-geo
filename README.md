@@ -1,5 +1,7 @@
 # cmacc-geo
 
+[![NPM](https://nodei.co/npm/cmacc-lib-geo.png?compact=true)](https://nodei.co/npm/cmacc-lib-geo/)
+
 This library includes the generic elements for addresses. This is used in documents when no exact address is specified.
 
 A reference to an address is a reference to a _geo.cmacc file located in the country > state > county > city > street > streetnum directory.
