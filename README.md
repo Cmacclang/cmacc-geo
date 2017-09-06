@@ -1,4 +1,4 @@
-# cmacc-geo
+# cmacc-lib-geo
 
 [![NPM](https://nodei.co/npm/cmacc-lib-geo.png?compact=true)](https://nodei.co/npm/cmacc-lib-geo/)
 
